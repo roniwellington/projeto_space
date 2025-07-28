@@ -74,13 +74,13 @@ projeto-space/
 └── requirements.txt       # Dependências do projeto
 
 
-📌 Próximos passos
-Melhorias na interface com componentes modernos (ex: Tailwind CSS)
+##📌 Próximos passos
+**Melhorias na interface com componentes modernos (ex: Tailwind CSS)
 
-Adição de testes automatizados
+**Adição de testes automatizados
 
-Paginação e filtros avançados
+**Paginação e filtros avançados
 
-Integração contínua (CI/CD)
+**Integração contínua (CI/CD)
 
-Autorização por níveis de acesso
+**Autorização por níveis de acesso

@@ -63,15 +63,15 @@ python manage.py runserver
 Acesse no navegador: http://127.0.0.1:8000
 ````
 
-#📂 Estrutura do Projeto
-projeto-space/
-├── core/                  # App principal com views, models, forms etc.
-├── static/                # Arquivos estáticos (CSS, JS, imagens)
-├── templates/             # Templates HTML com Django Template Language
-├── media/                 # Diretório de uploads enviados para o S3
-├── db.sqlite3             # Banco de dados local
-├── manage.py              # Arquivo de gerenciamento Django
-└── requirements.txt       # Dependências do projeto
+# 📂 Estrutura do Projeto
+- projeto-space/
+- ├── core/                  # App principal com views, models, forms etc.
+- ├── static/                # Arquivos estáticos (CSS, JS, imagens)
+- ├── templates/             # Templates HTML com Django Template Language
+- ├── media/                 # Diretório de uploads enviados para o S3
+- ├── db.sqlite3             # Banco de dados local
+- ├── manage.py              # Arquivo de gerenciamento Django
+- └── requirements.txt       # Dependências do projeto
 
 
 ## 📌 Próximos passos
